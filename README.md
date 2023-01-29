@@ -112,6 +112,8 @@ These are some of the abilities that would be expected to be exhibited by the pr
 
 ## Useful links
 
+https://github.com/arunmadhavan-g/SDM-Resources/blob/main/Amazon%20LP's-Updated.pdf
+
 https://youtu.be/e0FQ9A2Yz9E
 
 https://www.amazon.jobs/en/landing_pages/virtual-interview-prep
